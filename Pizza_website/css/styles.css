@@ -426,7 +426,7 @@ p {
    border-radius: 0px;
    background: transparent;
    border: 2px solid var(--white-color);
-   color: var(--white-color)
+   color: var(--white-color);
    font-weight: 700;
 
 }
